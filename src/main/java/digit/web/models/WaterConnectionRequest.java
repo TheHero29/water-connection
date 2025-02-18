@@ -11,6 +11,7 @@ import org.springframework.validation.annotation.Validated;
 import jakarta.validation.Valid;
 import jakarta.validation.constraints.*;
 
+
 /**
  * Contract class to receive request. Array of Property items  are used in case of create . Where as single Property item is used for update
  */
