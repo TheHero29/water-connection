@@ -1,3 +1,5 @@
+package digit.repository;
+
 import digit.repository.querybuilder.WaterConnectionQueryBuilder;
 import digit.repository.rowmapper.WaterConnectionRowMapper;
 import digit.web.models.WaterConnection;
